@@ -1,3 +1,11 @@
+# Usage
+`node src/dummy.js` initializes the data to test the program
+
+`npm start` starts the json server to fake the api
+
+`node src/main.js` executes the algorithm and saves the data into `retrieved_products.json` file
+
+
 # Web Automation Dev - Home assignment (public)
 
 Hello developer,
